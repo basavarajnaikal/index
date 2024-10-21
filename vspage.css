@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.Toplink {
+    margin-left: 20px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.Toplink:hover {
+    color: #0076bf;
+}
+
+.search-bar input {
+    width: 200px;
+}
+
+.button {
+    background-color: #0076bf;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #005a9e;
+}
+
+span.span a {
+    margin-right: 5px;
+}
